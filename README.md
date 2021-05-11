@@ -2,7 +2,7 @@
 
 ## Team Members
 
-Place your team member names here.
+Sedona Munguia, Cole Wilkinson, Elias Ortega
 
 ### Contribution Statements
 
