@@ -12,13 +12,15 @@
   color:"#ffffff"
    /]
 
-The final project will provide hands-on experience designing, implementing, and deploying interactive visualizations for the web. For this project, you will select a topic of interest and author a narrative article and accompanying visualizations to educate and inform a general audience. Think of your project as contributing to our own class newspaper or scientific magazine. The final deliverable will take the form of an explanatory narrative, deployed as an interactive web page using GitHub Pages. You will leverage the template and style provided here. 
+![example](./static/images/meme.png)
+
+We will be performing an exploratory analysis on global greenhouse gas emissions or something i guess.
 
 ## The theme is data visualization for communicating scientific advancements or social phenomena. How might data visualization help us better understand the workings of our society or our physical world?
 
 Your project must visualize one or more publicly accessible datasets of social or scientific importance. You are free to choose a specific domain of personal interest; for example, you might explore data relevant to your UW major. Example topics include transportation, economic development, humanitarian aid, legislative voting records, and communicating scientific research, among many others. Talk to the course staff if you have any questions regarding the project theme.
 
-This template was created with [Idyll](https://idyll-lang.org/docs), which is a markup language for creating beautiful interactive webpages. For your own webpage, you can customize the particular components and layouts that are used, but the style of the overall page is predefined by our course theme. 
+This template was created with [Idyll](https://idyll-lang.org/docs), which is a markup language for creating beautiful interactive webpages. For your own webpage, you can customize the particular components and layouts that are used, but the style of the overall page is predefined by our course theme.
 
 Keep reading for examples of how to embed visualizations and modify the format.
 
@@ -30,7 +32,7 @@ We can easily embed images inline by including a short code snippet referencing 
 
 #### Specifying data for dynamic Vega-Lite and D3 visualizations
 
- First, we specify the data that will be used in the visualization with a short code snippet: `[data name:"sunshine" source:"sunshine.json" /]`. We will reference this dataset with the name `sunshine` when creating visualizations in Vega-Lite or D3. 
+ First, we specify the data that will be used in the visualization with a short code snippet: `[data name:"sunshine" source:"sunshine.json" /]`. We will reference this dataset with the name `sunshine` when creating visualizations in Vega-Lite or D3.
 
 [data name:"sunshine" source:"sunshine.csv" /]
 
