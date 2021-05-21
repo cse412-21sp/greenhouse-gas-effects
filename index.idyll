@@ -3,7 +3,7 @@
 [Header
   fullWidth:true
   title:"Greenhouse Gas Effects"
-  subtitle:"Use this structure to get started, but make the narrative your own!"
+  subtitle:"An analysis on the chemicals causing climate change and the consequences of their emissions"
   author:"Sedona Munguia, Elias Ortega, Cole Wilkinson"
   authorLink: "
   https://courses.cs.washington.edu/courses/cse412/21sp/index.html"
@@ -12,11 +12,38 @@
   color:"#ffffff"
    /]
 
+# Introduction
+## The goal of this project is to use data visualization to observe how greenhouse gas emissions have changed over the last thirty years, as well as to analyze the environmental, economic, and societal aftermath caused by it.
+
+This project primarily uses the data supplied publicly by the Organization for Economic Co-Operation and Development (OECD). Other data was supplied by xyz.
+
 ![example](./static/images/meme.jpg)
 
-We will be performing an exploratory analysis on global greenhouse gas emissions or something i guess.
+# Greenhouse Gas Emissions
+## Here, we analyze how greenhouse gas emissions have changed over time, average emissions by country, and total summed greenhouse gas emissions.
 
-## The theme is data visualization for communicating scientific advancements or social phenomena. How might data visualization help us better understand the workings of our society or our physical world?
+[Scroller]
+
+  [Graphic]
+    [TableauEmbed link:"https://public.tableau.com/views/ghg_16215824097950/AverageGreenhouseGasEmissions1990-2018tnCO2equiv_?:language=en&:display_count=y&publish=yes&:origin=viz_share_link" width:"100%" height:"400"/]
+  [/Graphic]
+
+  [Step]
+    This map illustrates the average greenhouse gas emissions produced by each country with available data, with more environmentally unfriendly countries labelled in increasingly vibrant red.
+    The global "superpowers" - United States, China, Russia, India - all immediately jump off the screen as being the biggest producers of greenhouse gasses. However, which other countries rise to the top of the list?
+  [/Step]
+
+  [Step]
+    [TableauEmbed link:"https://public.tableau.com/views/AverageGreenhouseGasEmissions1990-2018tnCO2equiv_-BarChart/AverageGreenhouseGasEmissions1990-2018tnCO2equiv_2?:language=en&:display_count=y&publish=yes&:origin=viz_share_link" width:"100%" height:"800"/]
+  [/Step]
+
+[/Scroller]
+
+Blah Blah Blah I'll finish this part Later
+
+# Consequences - Part 1
+
+# Consequences - Part 2
 
 Your project must visualize one or more publicly accessible datasets of social or scientific importance. You are free to choose a specific domain of personal interest; for example, you might explore data relevant to your UW major. Example topics include transportation, economic development, humanitarian aid, legislative voting records, and communicating scientific research, among many others. Talk to the course staff if you have any questions regarding the project theme.
 
