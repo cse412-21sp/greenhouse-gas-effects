@@ -41,7 +41,24 @@ This project primarily uses the data supplied publicly by the Organization for E
 
 Blah Blah Blah I'll finish this part Later
 
-# Consequences - Part 1
+# Consequences - Policy
+
+This section will look at the various ways in which countries have attempted to decrease their environmental impact.
+
+First we will look at an index done by OCED to measure how stringent a country's environmental policies are as a whole.
+The environmental policy index is an index from 0 (least stringent) to 6 (most stringent) based on 14 environmental policy ratings focusing on climate and air pollution.
+
+[TableauEmbed link:"https://public.tableau.com/shared/QC7CH9M8X?:display_count=y&:origin=viz_share_link" width:"100%" height:"400"/]
+
+This visualization shows many of the countries with the highest environmental policy index are in Europe, with Canada in the range with Europe as well.
+Additionally, it is interesting that much of the data is missing for Central and South America, Africa, and Central Asia.
+
+Next we will look at what countries use taxes related to environmental effects using environmental taxes as a percent of GDP.
+
+[TableauEmbed link:"https://public.tableau.com/views/environmental_tax/Sheet1?:language=en&:display_count=y&publish=yes&:origin=viz_share_link" width:"100%" height:"400"/]
+
+Here we find that most countries have very small environmental tax rates, with most countries outside of Europe in the 1-2% rate, and much of Europe in the 2-3% rate.
+Interesting outliers include Mauritania with an environmental tax rate above 5% of GDP, and Mexico with an environmental tax rate of -.2% of GDP.
 
 # Consequences - Part 2
 
