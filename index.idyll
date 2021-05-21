@@ -45,6 +45,17 @@ Blah Blah Blah I'll finish this part Later
 
 # Consequences - Part 2
 
+For this section we will look at how environmental risks can affect health.
+Disability Affected Years (DALYs) is a way of measuring the burden of disease. It
+combines years of life lost and years of healthy life lost due to sickness or disability.
+
+[TableauEmbed link:"https://public.tableau.com/shared/DKBRJYDKR?:display_count=y&:origin=viz_share_link" width:"100%" height:"400"/]
+
+[TableauEmbed link:"https://public.tableau.com/views/EnvRisks2/Dashboard1?:language=en&:display_count=y&publish=yes&:origin=viz_share_link" width:"100%" height:"450"/]
+
+Idk why my format is all funky I'll deal tomorrow
+
+## End
 Your project must visualize one or more publicly accessible datasets of social or scientific importance. You are free to choose a specific domain of personal interest; for example, you might explore data relevant to your UW major. Example topics include transportation, economic development, humanitarian aid, legislative voting records, and communicating scientific research, among many others. Talk to the course staff if you have any questions regarding the project theme.
 
 This template was created with [Idyll](https://idyll-lang.org/docs), which is a markup language for creating beautiful interactive webpages. For your own webpage, you can customize the particular components and layouts that are used, but the style of the overall page is predefined by our course theme.
