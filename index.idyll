@@ -8,7 +8,7 @@
   authorLink: "
   https://courses.cs.washington.edu/courses/cse412/21sp/index.html"
   date:"May 10, 2021"
-  background:"#33333f"
+  background:"#2e8b57"
   color:"#ffffff"
    /]
 
@@ -65,12 +65,24 @@ Interesting outliers include Mauritania with an environmental tax rate above 5% 
 For this section we will look at how environmental risks can affect health.
 Disability Affected Years (DALYs) is a way of measuring the burden of disease. It
 combines years of life lost and years of healthy life lost due to sickness or disability.
+Below is a map of the average DALYs per 1000 residents averaging from 1990-2019.
 
 [TableauEmbed link:"https://public.tableau.com/shared/DKBRJYDKR?:display_count=y&:origin=viz_share_link" width:"100%" height:"400"/]
 
-[TableauEmbed link:"https://public.tableau.com/views/EnvRisks2/Dashboard1?:language=en&:display_count=y&publish=yes&:origin=viz_share_link" width:"100%" height:"450"/]
+Then we want to see the trend for DALYs over time. Below shows the DALYs per 1000 resients for the
+top 10 countries in GHG emissions from 1990-2019.
 
-Idk why my format is all funky I'll deal tomorrow
+[TableauEmbed link:"https://public.tableau.com/views/EnvRisks2/Sheet2?:language=en&:display_count=y&:origin=viz_share_link" width:"100%" height:"450"/]
+
+We can see that there has been a steady decline in DALYs over the past 30 years across
+all 10 countries.
+
+# Moving Forward
+
+This is a rough outline of how we will be presenting our data. We have started with some ideas
+for visualizations. We hope to use those to make more animated designs, particularly for the maps.
+We are still in progress of working through those in vega-lite and then we will add those into our
+design.
 
 ## End
 Your project must visualize one or more publicly accessible datasets of social or scientific importance. You are free to choose a specific domain of personal interest; for example, you might explore data relevant to your UW major. Example topics include transportation, economic development, humanitarian aid, legislative voting records, and communicating scientific research, among many others. Talk to the course staff if you have any questions regarding the project theme.
