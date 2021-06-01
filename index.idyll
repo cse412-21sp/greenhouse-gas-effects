@@ -43,22 +43,39 @@ Blah Blah Blah I'll finish this part Later
 
 # Consequences - Policy
 
-This section will look at the various ways in which countries have attempted to decrease their environmental impact.
+Due to the negative effects of carbon emissions on the Earth's climate, many countries have put laws into place to limit their environmental impact.
 
-First we will look at an index done by OCED to measure how stringent a country's environmental policies are as a whole.
-The environmental policy index is an index from 0 (least stringent) to 6 (most stringent) based on 14 environmental policy ratings focusing on climate and air pollution.
+Since these laws can vary significantly by country, both in intent and effect, the Organization for Economic Co-operation and Development (OECD), has come up with a index to compare each countries environmental policy stringency.
+OECD assess each participating country on a 0 (least stringent) to 6 (most stringent) scale for:
+
+- Taxes on emissions
+- Trading Schemes
+- Feed-in Tariff for Wind and Solar
+- Deposit and Refund Schemes
+- Emission Standards
+- R&D Subsidies on Renewable Energy
+
+These six indexes are aggregated using a formula shown [here](https://www.oecd.org/economy/greeneco/how-stringent-are-environmental-policies.htm) for an overall index to compare environmental policy stringency between countries, which is done on the map below.
 
 [TableauEmbed link:"https://public.tableau.com/shared/QC7CH9M8X?:display_count=y&:origin=viz_share_link" width:"100%" height:"400"/]
 
-This visualization shows many of the countries with the highest environmental policy index are in Europe, with Canada in the range with Europe as well.
-Additionally, it is interesting that much of the data is missing for Central and South America, Africa, and Central Asia.
+This map shows many of the countries with the highest environmental policy index are in Europe, with an index around 3. The only other country in range with Europe is Canada, at 3.35.
+The countries with the lowest index are Brazil and Russia, both around .5.
+It is unsurprising that the two largest emitters, the US and China, are not at the front of the pack when it comes to environmental policy. The US has an index of around 2.7 and China is around 1.1, which is in line with the trend of China's emissions increasing while the US's emissions decreasing slightly.
+This also indicates that environmental policy can be a successful strategy to mitigate carbon emissions.
+It should also be noted that data from Central and South America, Africa, and Central Asia is missing.
 
-Next we will look at what countries use taxes related to environmental effects using environmental taxes as a percent of GDP.
+Direct environmental taxes are another method governments use to decrease carbon emissions, and they can be used to pay for environmental policies.
+The map below shows environmental taxes as a percent of GDP, in order to compare countries relative to the size of their economy, which also helps avoid outliers from large economies.
 
 [TableauEmbed link:"https://public.tableau.com/views/environmental_tax/Sheet1?:language=en&:display_count=y&publish=yes&:origin=viz_share_link" width:"100%" height:"400"/]
 
-Here we find that most countries have very small environmental tax rates, with most countries outside of Europe in the 1-2% rate, and much of Europe in the 2-3% rate.
+Here we find that most countries have small environmental tax rates, all below 6%.
+Europe leads the environmental tax rate as well, with most countries in the 2-3% range.
+Most countries outside of Europe are in the 1-2% range.
 Interesting outliers include Mauritania with an environmental tax rate above 5% of GDP, and Mexico with an environmental tax rate of -.2% of GDP.
+This data is hard to make conclusions about, other than the fact that environmental taxes are not widely used, which makes it difficult to judge their effectiveness.
+Despite environmental taxes being relatively untested, they logically motivate companies to decrease their environmental impact, and raises funds for government expenses.
 
 # Consequences - Part 2
 
