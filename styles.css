@@ -5,6 +5,10 @@
 .vg-tooltip table {
   margin-bottom: 0px;
 }
+.aligned {
+  margin-left: auto;
+  margin-right: auto;
+}
 
 @media all and (max-width: 1000px) {
   .d3-component svg {

@@ -13,33 +13,47 @@ https://github.com/cse412-21sp/greenhouse-gas-effects"
    /]
 
 # Introduction
-## The goal of this project is to use data visualization to observe how greenhouse gas emissions have changed over the last thirty years, as well as to analyze its political and medical implications.
+## The goal of this project is to use data visualization to demonstrate how greenhouse gas emissions have changed over the last thirty years, as well as to analyze and present its political and medical implications.
 
 This project primarily uses the data supplied publicly by the Organization for Economic Co-Operation and Development (OECD). Other data used will be mentioned here as well.
 
-# Greenhouse Gas Emissions
-## Here, we analyze how greenhouse gas emissions have changed over time, average emissions by country, and total summed greenhouse gas emissions (maybe not, bad data).
+# Greenhouse Gas Emissions and Climate Change
 
-[Scroller]
+To observe the effects greenhouse gasses have had on the planet, we first have to consider the amount of greenhouse gasses being emitted globally and the context surrounding these emissions. First, we plot the total greenhouse gas emissions over time:
 
-  [Graphic]
-    [TableauEmbed link:"https://public.tableau.com/views/ghg_16215824097950/AverageGreenhouseGasEmissions1990-2018tnCO2equiv_?:language=en&:display_count=y&publish=yes&:origin=viz_share_link" width:"100%" height:"400"/]
-  [/Graphic]
+[TableauEmbed link:"https://public.tableau.com/views/GlobalTotalGreenhouseGasEmissions1990-2018tnCO2equiv_/GlobalTotalGreenhouseGasEmissions1990-2018tnCO2equiv_?:language=en-US&:display_count=n&:origin=viz_share_link" width:"150%" height:"600"/]
+[br /]
 
-  [Step]
-    This map illustrates the average greenhouse gas emissions produced by each country with available data, with more environmentally unfriendly countries labelled in increasingly vibrant red.
-    The global "superpowers" - United States, China, Russia, India - all immediately jump off the screen as being the biggest producers of greenhouse gasses. However, which other countries rise to the top of the list?
-  [/Step]
+Two key observations can be made looking at the above visualization:
+firstly, that China's greenhouse gas emissions are hugely impactful towards the global total - and secondly, that the global (production of pollutants (excluding China) has ever-so-slightly decreased over the previous 28 years.
+However, it should be noted that China's emissions seem to have only increased over the same timespan.
+Next, we plot greenhouse gasses on a political map to see which countries are the biggest producers of atmospheric pollutants:
 
-  [Step]
-    [TableauEmbed link:"https://public.tableau.com/views/AverageGreenhouseGasEmissions1990-2018tnCO2equiv_-BarChart/AverageGreenhouseGasEmissions1990-2018tnCO2equiv_2?:language=en&:display_count=y&publish=yes&:origin=viz_share_link" width:"100%" height:"800"/]
-  [/Step]
+[TableauEmbed link:"https://public.tableau.com/views/ghg_16215824097950/AverageGreenhouseGasEmissions1990-2018tnCO2equiv_?:language=en&:display_count=y&publish=yes&:origin=viz_share_link" width:"150%" height:"600"/]
+[br /]
 
-[/Scroller]
+This map illustrates the average greenhouse gas emissions produced by each country with available data, with more environmentally unfriendly countries labelled in increasingly vibrant red.
+The global "superpowers" - United States, China, Russia, India - all immediately jump off the screen as being the biggest producers of greenhouse gasses. However, which other countries rise to the top of the list?
+
+[TableauEmbed link:"https://public.tableau.com/views/GlobalTotalGreenhouseGasEmissions1990-2018tnCO2equiv_/AverageGreenhouseGasEmissions1990-2018tnCO2equiv_-BarChart?:language=en-US&:display_count=n&:origin=viz_share_link" width:"100%" height:"600"/]
+[br /]
 
 As one can see, after the big four countries, the next four countries with the highest greenhouse gas emissions are Indonesia, Japan, Brazil, and Germany.
+Again, these countries are globally dominant in both the political and economic scenes.
+A quick look at the gross domestic products of each of these countries show that these heavy polluters also happen to be some of the world's top economic powerhouses.
 
 (maybe a visualization about ghg emissions per capita or per GDP or both)
+
+Ultimately, it's estimated that x% of the world's greenhouse gasses come from the industrial sector (citation needed), and thus it makes sense that the countries that produce the most would also generate the most waste.
+
+Climate change is not a new topic, and has been a focal point for global news outlets for decades.
+Whether it be the melting of the polar ice caps, lakes and rivers drying up, or the obliteration of entire ecosystems - it's impossible to deny the devastating impact human pollution has had on the environment.
+Greenhouse gasses are just one factor (albeit a very significant one) in the overarching issue that is climate change.
+However, they are one of the most consistently recorded and reported metrics in the field, which makes them and their data some of the most suitable to construct a report with.
+
+This is all to say: the purpose of this report is not to point fingers at the worst polluters or shame the individual reader into recycling more.
+Instead, we hope our audience is able to take a step back and view our planet's climate crisis from a different lens - one focusing on the tremendous scale and human impact this problem presents.
+By changing one's own perspective, the question transitions from: "what can I do?" to "what more can I learn?"
 
 # Consequences - Policy
 
