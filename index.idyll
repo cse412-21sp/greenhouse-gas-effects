@@ -21,7 +21,7 @@ This project primarily uses the data supplied publicly by the Organization for E
 
 To observe the effects greenhouse gasses have had on the planet, we first have to consider the amount of greenhouse gasses being emitted globally and the context surrounding these emissions. First, we plot the total greenhouse gas emissions over time:
 
-[TableauEmbed link:"https://public.tableau.com/views/GlobalTotalGreenhouseGasEmissions1990-2018tnCO2equiv_/GlobalTotalGreenhouseGasEmissions1990-2018tnCO2equiv_?:language=en-US&:display_count=n&:origin=viz_share_link" width:"150%" height:"600"/]
+[TableauEmbed link:"https://public.tableau.com/views/GlobalTotalGreenhouseGasEmissions1990-2018tnCO2equiv_/GlobalTotalGreenhouseGasEmissions1990-2018tnCO2equiv_?:language=en-US&:display_count=n&:origin=viz_share_link" width:"100%" height:"600"/]
 [br /]
 
 Two key observations can be made looking at the above visualization:
@@ -29,7 +29,7 @@ firstly, that China's greenhouse gas emissions are hugely impactful towards the 
 However, it should be noted that China's emissions seem to have only increased over the same timespan.
 Next, we plot greenhouse gasses on a political map to see which countries are the biggest producers of atmospheric pollutants:
 
-[TableauEmbed link:"https://public.tableau.com/views/ghg_16215824097950/AverageGreenhouseGasEmissions1990-2018tnCO2equiv_?:language=en&:display_count=y&publish=yes&:origin=viz_share_link" width:"150%" height:"600"/]
+[TableauEmbed link:"https://public.tableau.com/views/GlobalTotalGreenhouseGasEmissions1990-2018tnCO2equiv_/AverageGreenhouseGasEmissions1990-2018tnCO2equiv_?:language=en-US&:display_count=n&:origin=viz_share_link" width:"100%" height:"600"/]
 [br /]
 
 This map illustrates the average greenhouse gas emissions produced by each country with available data, with more environmentally unfriendly countries labelled in increasingly vibrant red.
@@ -98,7 +98,7 @@ Disability Affected Years (DALYs) is a way of measuring the burden of disease. I
 combines years of life lost and years of healthy life lost due to sickness or disability.
 Below is a map of the average DALYs per 1000 residents from 1990-2019, the toggle can be used to look at each year.
 
-[TableauEmbed link:"https://public.tableau.com/views/EnvRisks2/Dashboard2?:language=en-US&:display_count=n&:origin=viz_share_link" width:"100%" height:"500"/]
+[TableauEmbed link:"https://public.tableau.com/shared/FRZP9YX6K?:display_count=n&:origin=viz_share_link" width:"100%" height:"500"/]
 
 We can see that while the countries with the worst health tend to be in central Africa, we can also see that the number is decreasing as the years progress.
 Note that the dataset only provided data every 5 years from 1990-2005, then began annual data.
@@ -106,22 +106,49 @@ Note that the dataset only provided data every 5 years from 1990-2005, then bega
 Then we want to see the trend for DALYs over time. Below shows the DALYs per 1000 resients for the
 top 10 countries in GHG emissions from 1990-2019.
 
-[TableauEmbed link:"https://public.tableau.com/views/EnvRisks2/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link" width:"100%" height:"450"/]
+[Scroller]
 
-We can see that there has been a steady decline in DALYs over the past 30 years across
-all 10 countries. This makes sense with all of the advancements that have been made in medicine and increasing lifespan over the past 30 years.
-Also that the two largest emittors of GHG, China and the United States, tended toward the bottom and were not the ones with the largest DALYs.
+  [Graphic]
+  [TableauEmbed link:"https://public.tableau.com/views/EnvRisks2/Sheet2?:language=en-US&:display_count=n&:origin=viz_share_link" width:"50%" height:"450"/]
+  [/Graphic]
 
-We can also look into the Value of a Statistical Life (VSL) for countries over this time period. A VSL generally represents the amount of money
-that people would pay to reduce their mortality risks. This data provided was in current prices, and since the latest data is from 2019 we can
-assume that it was the value of the 2019 USD.
+  [Step]
+    We can see that there has been a steady decline in DALYs over the past 30 years across
+    all 10 countries. This makes sense with all of the advancements that have been made in medicine and increasing lifespan over the past 30 years.
+    Also that the two largest emittors of GHG, China and the United States, tended toward the bottom and were not the ones with the largest DALYs.
+  [/Step]
 
-[TableauEmbed link:"https://public.tableau.com/views/EnvRisks2/Dashboard3?:language=en-US&:display_count=n&:origin=viz_share_link" width:"150%" height:"450"/]
+  [Step]
+    We can also look into the Value of a Statistical Life (VSL) for the top 10 GHG emittor countries over this time period. A VSL generally represents the amount of money
+    that people would pay to reduce their mortality risks. This data provided was in millions of USD valued at 2015.
+  [/Step]
 
-There has been a drastic increase in the last 30 years with the VSL for Iran, whereas in 1990 there were more countries with similar VSLs.
+  [Step]
+    [TableauEmbed link:"https://public.tableau.com/views/EnvRisks2/1990?:language=en-US&:display_count=n&:origin=viz_share_link" width:"100%" height:"500"/]
+  [/Step]
+
+  [Step]
+    [TableauEmbed link:"https://public.tableau.com/views/EnvRisks2/2000?:language=en-US&:display_count=n&:origin=viz_share_link" width:"100%" height:"500"/]
+  [/Step]
+
+  [Step]
+    [TableauEmbed link:"https://public.tableau.com/views/EnvRisks2/2010?:language=en-US&:display_count=n&:origin=viz_share_link" width:"100%" height:"500"/]
+  [/Step]
+
+  [Step]
+    [TableauEmbed link:"https://public.tableau.com/views/EnvRisks2/2019?:language=en-US&:display_count=n&:origin=viz_share_link" width:"100%" height:"500"/]
+  [/Step]
+
+  [Step]
+    There has been an increase in VSLs for these countries over the past 30 years.
+  [/Step]
+
+[/Scroller]
 
 # Analysis and Conclusion
 
+Through this data we can see where the large greenhouse gas emittors are, with China and the United States having by far the most. We can then 
+see how that information is related to both environmental taxes and overall health.
 We can start to see some connections through these different areas. Places with higher environmental tax rates tend to have lower GHG emissions,
 like Canada and Europe. While the data on DALYs showed data on where the world is sicker and healthier over the years, there was
 not a strong visible connection. It would be interesting to see data on specifically health related to pollution and be able to compare that to
@@ -131,4 +158,4 @@ Hope you enjoyed!
 
 # Data Source
 
-https://stats.oecd.org/Index.aspx?DataSetCode=AIR_GHG
+[https://stats.oecd.org/Index.aspx?DataSetCode=AIR_GHG](https://stats.oecd.org/Index.aspx?DataSetCode=AIR_GHG)
