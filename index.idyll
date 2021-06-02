@@ -42,9 +42,9 @@ As one can see, after the big four countries, the next four countries with the h
 Again, these countries are globally dominant in both the political and economic scenes.
 A quick look at the gross domestic products of each of these countries show that these heavy polluters also happen to be some of the world's top economic powerhouses.
 
-(maybe a visualization about ghg emissions per capita or per GDP or both)
-
-Ultimately, it's estimated that x% of the world's greenhouse gasses come from the industrial sector (citation needed), and thus it makes sense that the countries that produce the most would also generate the most waste.
+Ultimately, it's estimated that 27% of the world's greenhouse gasses come from the industrial sector (as seen below) and thus it makes sense that the countries that produce the most would also generate the most waste.
+[br /]
+![example](./static/images/total-ghg-2021.png)
 
 Climate change is not a new topic, and has been a focal point for global news outlets for decades.
 Whether it be the melting of the polar ice caps, lakes and rivers drying up, or the obliteration of entire ecosystems - it's impossible to deny the devastating impact human pollution has had on the environment.
@@ -59,7 +59,7 @@ By changing one's own perspective, the question transitions from: "what can I do
 
 Due to the negative effects of carbon emissions on the Earth's climate, many countries have put laws into place to limit their environmental impact.
 
-Since these laws can vary significantly by country, both in intent and effect, the Organization for Economic Co-operation and Development (OECD), has come up with a index to compare each countries environmental policy stringency.
+Since these laws can vary significantly by country, both in intent and effect, the OECD, has come up with a index to compare each countries environmental policy stringency.
 OECD assess each participating country on a 0 (least stringent) to 6 (most stringent) scale for:
 
 - Taxes on emissions
@@ -113,7 +113,7 @@ all 10 countries. This makes sense with all of the advancements that have been m
 Also that the two largest emittors of GHG, China and the United States, tended toward the bottom and were not the ones with the largest DALYs.
 
 We can also look into the Value of a Statistical Life (VSL) for countries over this time period. A VSL generally represents the amount of money
-that people would pay to reduce their mortality risks. This data provided was in current prices, and since the latest data is from 2019 we can 
+that people would pay to reduce their mortality risks. This data provided was in current prices, and since the latest data is from 2019 we can
 assume that it was the value of the 2019 USD.
 
 [TableauEmbed link:"https://public.tableau.com/views/EnvRisks2/Dashboard3?:language=en-US&:display_count=n&:origin=viz_share_link" width:"150%" height:"450"/]
