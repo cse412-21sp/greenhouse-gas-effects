@@ -15,7 +15,7 @@ https://github.com/cse412-21sp/greenhouse-gas-effects"
 # Introduction
 ## The goal of this project is to use data visualization to demonstrate how greenhouse gas emissions have changed over the last thirty years, as well as to analyze and present its political and medical implications.
 
-This project primarily uses the data supplied publicly by the Organization for Economic Co-Operation and Development (OECD). Other data used will be mentioned here as well.
+This project primarily uses the data supplied publicly by the Organization for Economic Co-Operation and Development (OECD). Other economic data provided by the World Bank was also used.
 
 # Greenhouse Gas Emissions and Climate Change
 
@@ -40,10 +40,16 @@ The global "superpowers" - United States, China, Russia, India - all immediately
 
 As one can see, after the big four countries, the next four countries with the highest greenhouse gas emissions are Indonesia, Japan, Brazil, and Germany.
 Again, these countries are globally dominant in both the political and economic scenes.
-A quick look at the gross domestic products of each of these countries show that these heavy polluters also happen to be some of the world's top economic powerhouses.
+A quick look at the gross domestic products of each of these countries (seen below) show that these heavy polluters also happen to be some of the world's top economic powerhouses.
 
-Ultimately, it's estimated that 27% of the world's greenhouse gasses come from the industrial sector (as seen below) and thus it makes sense that the countries that produce the most would also generate the most waste.
+[TableauEmbed link:"https://public.tableau.com/views/CountriesByGDP/Top10CountriesbyGDP1990-2018?:language=en-US&:display_count=n&:origin=viz_share_link" width:"100%" height:"600"/]
+
+Comparing this bar chart to the one above, it is easy to recognize that there is a lot of overlap between the two.
+Of the ten largest countries by GDP, 7 are in the top 10 for greenhouse gas emissions, and all ten are in the top 20.
+
+Ultimately, it's estimated that [27% of the world's greenhouse gasses come from the industrial sector](https://www.epa.gov/ghgemissions/sources-greenhouse-gas-emissions) (as seen below) and thus it makes sense that the countries that produce the most would also generate the most waste.
 [br /]
+
 ![example](./static/images/total-ghg-2021.png)
 
 Climate change is not a new topic, and has been a focal point for global news outlets for decades.
@@ -147,7 +153,7 @@ top 10 countries in GHG emissions from 1990-2019.
 
 # Analysis and Conclusion
 
-Through this data we can see where the large greenhouse gas emittors are, with China and the United States having by far the most. We can then 
+Through this data we can see where the large greenhouse gas emittors are, with China and the United States having by far the most. We can then
 see how that information is related to both environmental taxes and overall health.
 We can start to see some connections through these different areas. Places with higher environmental tax rates tend to have lower GHG emissions,
 like Canada and Europe. While the data on DALYs showed data on where the world is sicker and healthier over the years, there was
@@ -156,6 +162,8 @@ the levels of GHG.
 
 Hope you enjoyed!
 
-# Data Source
+# Data Sources
 
 [https://stats.oecd.org/Index.aspx?DataSetCode=AIR_GHG](https://stats.oecd.org/Index.aspx?DataSetCode=AIR_GHG)
+[br /]
+[https://data.worldbank.org/indicator/NY.GDP.MKTP.CD](https://data.worldbank.org/indicator/NY.GDP.MKTP.CD)
