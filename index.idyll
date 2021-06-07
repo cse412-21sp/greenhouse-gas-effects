@@ -125,8 +125,9 @@ top 10 countries in GHG emissions from 1990-2019.
   [/Step]
 
   [Step]
-    We can also look into the Value of a Statistical Life (VSL) for the top 10 GHG emittor countries over this time period. A VSL generally represents the amount of money
-    that people would pay to reduce their mortality risks. This data provided was in millions of USD valued at 2015.
+    We can also look into the Value of a Statistical Life (VSL) for the top ten GHG emittor countries over this time period. A VSL generally represents the amount of money
+    that people would pay to reduce their mortality risks. This data provided was in millions of USD valued at 2015. This shows how the distribution
+    between the top ten has changed over the last 30 years.
   [/Step]
 
   [Step]
@@ -146,10 +147,15 @@ top 10 countries in GHG emissions from 1990-2019.
   [/Step]
 
   [Step]
-    There has been an increase in VSLs for these countries over the past 30 years.
+    There has been an increase in VSLs for these countries over the past 30 years. However, the United States stays at the top every year, typically followed
+    by a combination of Germany, Canada, and Japan.
   [/Step]
 
 [/Scroller]
+
+The data given looks at overall health and does not specifically look at health due to air pollution unfortunately. We can see that while central Africa is 
+not in the largest polluters, they have the highest DALYs. That is why the look at the top ten polluters shows how the contributors relate to health
+amongst themselves. The highest polluters do not have the highest DALYs, and only the United States has a large VSL.
 
 # Analysis and Conclusion
 
